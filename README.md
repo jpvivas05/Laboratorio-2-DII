@@ -1,2 +1,11 @@
 # Laboratorio-2-DII
-Laboratorio 2 Digital II contador binario y decimal 
+Contador secuencial de suma y resta con botón de cambio a secuencia binaria.
+
+Componentes requeridos:
+- Esp32
+- Led
+- Botón
+- Resistencia 330 Ohms
+- Cables
+
+Utilizar Visual Studio Code e indicar Espressif esp32 con lenguaje Arduino
